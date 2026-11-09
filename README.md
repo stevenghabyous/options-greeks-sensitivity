@@ -2,6 +2,8 @@
 
 **Timeline:** 2025
 
+Try the interactive Greeks explorer from this project on my [portfolio site](https://stevenghabyous.github.io/#options).
+
 A from-scratch implementation of the Black-Scholes-Merton model for European options on dividend-paying stocks, with analytical Greeks, numerical verification, and sensitivity analysis.
 
 ## Highlights
@@ -37,3 +39,7 @@ An earlier version pulled live inputs and used the first strike in the option ch
 ## Tools
 
 Python, NumPy, SciPy, Matplotlib (optional: yfinance)
+
+---
+
+**Steven Ghabyous** | [Portfolio](https://stevenghabyous.github.io) | [GitHub](https://github.com/stevenghabyous) | [LinkedIn](https://linkedin.com/in/steven-ghabyous) | [Email](mailto:steven.ghabyous2005@gmail.com)
