@@ -1,5 +1,7 @@
 # Black-Scholes-Merton Pricing and Greeks Sensitivity Analysis
 
+**Timeline:** 2025, revised November 2026 (fixed input bugs, added verification checks)
+
 A from-scratch implementation of the Black-Scholes-Merton model for European options on dividend-paying stocks, with analytical Greeks, numerical verification, and sensitivity analysis.
 
 ## Highlights
